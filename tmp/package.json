@@ -1,0 +1,26 @@
+{
+  "comments": {
+    "dependencies": {
+      "simple-icons": "github.com/schnerring/hugo-mod-json-resume"
+    },
+    "devDependencies": {
+      "husky": "github.com/schnerring/hugo-mod-github-readme-stats",
+      "lint-staged": "github.com/schnerring/hugo-mod-github-readme-stats",
+      "markdownlint-cli": "github.com/schnerring/hugo-mod-github-readme-stats",
+      "prettier": "github.com/schnerring/hugo-mod-github-readme-stats",
+      "prettier-plugin-go-template": "github.com/schnerring/hugo-mod-github-readme-stats"
+    }
+  },
+  "dependencies": {
+    "simple-icons": "^7.4.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "markdownlint-cli": "^0.31.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  },
+  "name": "tmp",
+  "version": "0.1.0"
+}
